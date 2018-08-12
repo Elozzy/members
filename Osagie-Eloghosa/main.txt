@@ -1,0 +1,23 @@
+Please fill the following
+
+Name : Osagie Eloghosa
+
+Sex :Male
+
+Department :Computer-Science
+
+DSC Learning Track :Version Control
+
+Email :st.eloghosa@gmail.com
+
+Phone :08069819110
+
+Slack Username :Osagie Eloghosa
+
+Twitter handle : _Elozzy
+
+Facebook :Osagie Eloghosa
+
+Medium Handle :Osagie Eloghosa
+
+Github page .io url :OsagieEloghosa.github.io
